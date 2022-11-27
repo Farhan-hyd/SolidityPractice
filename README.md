@@ -1,2 +1,2 @@
 # SolidityPractice
-is has the important solidity concepts in it
+it has the basic solidity programs
